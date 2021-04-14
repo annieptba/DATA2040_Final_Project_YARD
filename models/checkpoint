@@ -1,0 +1,2 @@
+model_checkpoint_path: "baseline_transformer_bp2_weights.tf"
+all_model_checkpoint_paths: "baseline_transformer_bp2_weights.tf"
